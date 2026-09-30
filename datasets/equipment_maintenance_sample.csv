@@ -1,0 +1,5 @@
+asset_id,observation,maintenance_guidance
+EQ-001,"The packaging-line motor has rising vibration and an intermittent metallic sound.","When vibration rises above the normal baseline, stop automated recommendations and request bearing and alignment inspection by a qualified technician."
+EQ-002,"The cooling-unit temperature is 92 C after restart.","The documented safe range after restart is 55-75 C. Temperatures outside the safe range require technician inspection before continued operation."
+EQ-003,"The pump is operating within its recorded pressure and temperature range.","Continue monitoring when readings remain within the documented range and no abnormal sound, leakage or vibration is observed."
+

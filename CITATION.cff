@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this educational repository, please cite the MMAUG AI & DevOps Fundamentals Bootcamp 2026 lab materials."
+title: "MMAUG AI & DevOps Fundamentals Bootcamp 2026 - Introduction to AI Concepts and Tools Labs"
+type: software
+authors:
+  - family-names: "Etuk"
+    given-names: "Imoh"
+organization: "Malta Microsoft AI User Group (MMAUG)"
+year: 2026
+url: "https://mmaug.com/"
+license: MIT

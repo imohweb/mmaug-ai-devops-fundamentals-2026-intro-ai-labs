@@ -1,0 +1,12 @@
+request_id,wait_minutes,affected_users,service_down,priority
+SR-001,8,1,no,routine
+SR-002,45,60,yes,urgent
+SR-003,12,2,no,routine
+SR-004,30,25,yes,urgent
+SR-005,18,3,no,routine
+SR-006,55,100,yes,urgent
+SR-007,6,1,no,routine
+SR-008,40,35,yes,urgent
+SR-009,20,4,no,routine
+SR-010,70,80,yes,urgent
+

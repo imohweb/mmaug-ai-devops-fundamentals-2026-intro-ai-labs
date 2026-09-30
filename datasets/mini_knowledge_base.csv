@@ -1,0 +1,5 @@
+doc_id,title,text
+KB001,Refund policy,"Customers may request a refund within 14 days if the service was not used. Escalate exceptions to a human reviewer."
+KB002,Account lockout,"If a user is locked out, verify identity first, then reset MFA or password according to the identity policy."
+KB003,Equipment maintenance,"An abnormal equipment reading should be routed to a qualified technician with the observation and relevant guidance; the assistant must not authorise operation or maintenance work."
+KB004,AI governance,"High-risk AI outputs require logging, source citation, human review and periodic evaluation."
