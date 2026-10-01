@@ -27,3 +27,8 @@ Thumbs.db
 
 # Generated files
 outputs/
+
+# Instructor-only presentation materials
+/MMAUG_AI_Concepts_and_Tools.pptx
+/SLIDE_LAB_MAP.md
+/docs/instructor-demo-order.md
